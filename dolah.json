@@ -185,53 +185,47 @@
     "title": "SHOP HERE",
     "list": [
       {
-                "title": "HOME",
-        "image": "https://i.ibb.co/HzB5JdP/Kay-Jewelers.png",
-        "url": "https://www.kay.com/",
+                "title": "All Departments",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
         "status": true
       },
 {
-        "title": "ENGAGEMENT",
-        "image": "https://i.ibb.co/HzB5JdP/Kay-Jewelers.png",
-        "url": "https://www.kay.com/engagement-rings?icid=MM:ENGAGEMENT:ALL",
+        "title": "Holidays",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
         "status": true
       },
 {
-        "title": "WEDDING",
-        "image": "https://i.ibb.co/HzB5JdP/Kay-Jewelers.png",
-        "url": "https://www.kay.com/wedding?icid=MM:WEDDING:ALL",
+        "title": "Toys & Crafts",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
         "status": true
       },
 {
-        "title": "RINGS",
-        "image": "https://i.ibb.co/HzB5JdP/Kay-Jewelers.png",
-        "url": "https://www.kay.com/rings?icid=MM:RINGS:ALL",
+        "title": "Kitchen",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
         "status": true
       },
 {
-        "title": "NECKLACES",
-        "image": "https://i.ibb.co/HzB5JdP/Kay-Jewelers.png",
-        "url": "https://www.kay.com/necklace-jewelry?icid=MM:NECKLACE:ALL",
+        "title": "Home & Office",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
         "status": true
       },
 {
-        "title": "EARRINGS",
-        "image": "https://i.ibb.co/HzB5JdP/Kay-Jewelers.png",
-        "url": "https://www.kay.com/earrings?icid=MM:EARRINGS:ALL/",
+        "title": "Health",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
         "status": true
       },
 {
-        "title": "BRACELETS",
-        "image": "https://i.ibb.co/HzB5JdP/Kay-Jewelers.png",
-        "url": "https://www.kay.com/bracelets?icid=MM:BRACELET:ALL",
+        "title": "Food & Drinks",
+        "image": "https://i.ibb.co/7bW7rtb/dollartree.png",
+        "url": "https://www.dollar-store.us/",
         "status": true
-      },
-      {
-        "title": "WATCHES",
-        "image": "https://i.ibb.co/HzB5JdP/Kay-Jewelers.png",
-        "url": "https://www.kay.com/watches?icid=MM:WATCH:ALL",
-        "status": true
-      },
+      }
     ]
   }
 
