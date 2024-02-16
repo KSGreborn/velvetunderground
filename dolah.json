@@ -6,7 +6,7 @@
   
   "AdsController": {
       
-    "runAds"                     : true,
+    "runAds"                     : false,
     "native"                     : "ads",
       
     "BannerNetwork"              : "admob",
@@ -42,9 +42,9 @@
   
   "ControlActivity": {
       
-    "GenderActivity": true,
+    "GenderActivity": false,
     
-    "CaptchaActivity": true,
+    "CaptchaActivity": false,
     
     "FirstInfoActivity": {
       "status": false,
